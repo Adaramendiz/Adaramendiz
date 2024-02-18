@@ -20,7 +20,7 @@ Adaramendiz are some ideas to get you started:
 <a href="https://github.com/Adaramendiz">
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adaramendiz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Adaramendiz&show_icons=true&theme=algolia"/>
-    <p align="start">
+    <p align="center">
       <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
     </p>
 </a>
