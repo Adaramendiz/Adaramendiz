@@ -15,9 +15,12 @@ Adaramendiz are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-<p aling="center">
-    <a  
-      href="https://github.com/Adaramendiz"><img aling="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Andres+Aramendiz+" alt="Typing SVG" />        </a>
+<p >
+    <a  href="https://github.com/Adaramendiz">
+      <p aling="center">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Andres+Aramendiz+" alt="Typing SVG" />
+      </p>      
+    </a>
 </p>
 
 <p align="center">
