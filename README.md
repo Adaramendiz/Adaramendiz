@@ -14,9 +14,15 @@ Adaramendiz are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-<a href="https://github.com/Adaramendiz">
-<img height="170em"> src="https://phantom-marca.unidadeditorial.es/89c0ba9d49e637862f7e984c08635244/resize/660/f/webp/assets/multimedia/imagenes/2022/07/07/16572060638517.jpg"/>
+
+
+
+<p align="center">
+  <a href="https://github.com/Adaramendiz">
+    <img  src="https://i.imgur.com/GnyRCuS.png">
   </a>
+</p>
+  
 ### ⚙️ &nbsp;GitHub Analytics
 
 
