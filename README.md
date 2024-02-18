@@ -19,7 +19,7 @@ Adaramendiz are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/Adaramendiz">
-    <img height="350px" width="850px" src="https://i.imgur.com/GnyRCuS.png">
+    <img height="340px" width="850px" src="https://i.imgur.com/GnyRCuS.png">
   </a>
 </p>
   
