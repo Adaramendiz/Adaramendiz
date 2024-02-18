@@ -22,6 +22,7 @@ Adaramendiz are some ideas to get you started:
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Adaramendiz&show_icons=true&theme=algolia"/>
     <p align="center">
       <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adaramendiz&layout=compact&langs_count=8&theme=algolia"/>
+      ![Adaramendiz GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adaramendiz&theme=tokyonight)
     </p>
 </a>
   
