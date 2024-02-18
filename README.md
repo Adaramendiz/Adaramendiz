@@ -29,13 +29,19 @@ Adaramendiz are some ideas to get you started:
   </a>
 </p>
 
+<hr/>
+
 ###  About me  <img src="https://i.imgur.com/nhOH2qt.png"/>
 
-⚔️I am a passionate back-end developer diving into Python and Flask, eager to expand my skills and knowledge in web development. With a strong foundation in programming and problem-solving, I aim to leverage my experience to create robust and efficient backend solutions. Proficient in technologies like Python, Flask, SQL, I am dedicated to building scalable and secure web applications that meet the needs of users and businesses alike. My attention to detail and commitment to continuous improvement ensure that I stay updated with the latest advancements in backend development, allowing me to deliver high-quality solutions that drive success for every project I undertake.
+⚔️I am a passionate back-end developer diving into Python and Flask, eager to expand my skills and knowledge in web development. With a strong foundation in programming and problem-solving, I aim to leverage my experience to create robust and efficient backend solutions. Proficient in technologies like Python - Flask, SQL, I am dedicated to building scalable and secure web applications that meet the needs of users and businesses alike. My attention to detail and commitment to continuous improvement ensure that I stay updated with the latest advancements in backend development, allowing me to deliver high-quality solutions that drive success for every project I undertake.
+
+<hr/>
 
 ### My Stacks 🚀
 
 🔭 I’m currently working on Python - Flask
+
+<hr/>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -51,4 +57,4 @@ Adaramendiz are some ideas to get you started:
 </a>
   
 </p>
-
+<hr/>
