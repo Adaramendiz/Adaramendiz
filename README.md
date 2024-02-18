@@ -20,6 +20,6 @@ Adaramendiz are some ideas to get you started:
 <p align="center">
 <a href="https://github.com/Adaramendiz">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adaramendiz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adaramendiz&show_icons=true&theme=transparent"/>
 </a>
 </p>
