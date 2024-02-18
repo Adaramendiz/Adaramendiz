@@ -13,8 +13,12 @@ Adaramendiz are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+<a href="https://github.com/Adaramendiz">
+<img height="170em"> src="https://phantom-marca.unidadeditorial.es/89c0ba9d49e637862f7e984c08635244/resize/660/f/webp/assets/multimedia/imagenes/2022/07/07/16572060638517.jpg"/>
+  </a>
 ### ⚙️ &nbsp;GitHub Analytics
+
 
 <p align="center">
 <a href="https://github.com/Adaramendiz">
