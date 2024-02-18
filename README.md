@@ -18,7 +18,7 @@ Adaramendiz are some ideas to get you started:
 <p >
     <a  href="https://github.com/Adaramendiz">
       <p aling="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Andres+Aramendiz+" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0194DD&center=true&vCenter=true&random=false&width=1000&weight=700&size=40&lines=Andres+Aramendiz+" alt="Typing SVG" />
       </p>      
     </a>
 </p>
