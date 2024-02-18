@@ -1,20 +1,5 @@
 
 
-<!--
-**Adaramendiz/Adaramendiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Adaramendiz are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
-
 <p >
       <p aling="center">
           <a  href="https://github.com/Adaramendiz">
@@ -37,11 +22,17 @@ Adaramendiz are some ideas to get you started:
 
 <hr/>
 
-### My Stacks 🚀
+### My Stacks 🚀 
+🔭 I’m currently working on Python - Flask <br/>
 
-🔭 I’m currently working on Python - Flask
+### My Tools 🔨
+
+<a href="https://github.com/Adaramendiz"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a> 
+
 
 <hr/>
+
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -51,10 +42,20 @@ Adaramendiz are some ideas to get you started:
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Adaramendiz&show_icons=true&theme=algolia"/>
     <p align="center">
       <a href="https://github.com/Adaramendiz">
-      <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adaramendiz&layout=compact&langs_count=8&theme=algolia"/>
+      <img height="160em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adaramendiz&layout=compact&langs_count=8&theme=algolia"/>
       <img height="160em>" src="https://github-readme-streak-stats.herokuapp.com/?user=Adaramendiz&theme=algolia"/>
     </p>
 </a>
   
 </p>
+
 <hr/>
+
+<p align="center">
+  <a href="https://github.com/Adaramendiz">
+    <img height="340px" width="850px" src="https://i.postimg.cc/85js5nxc/banner-1.png">
+  </a>
+</p>
+
+<hr/>
+
