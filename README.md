@@ -24,7 +24,7 @@
 
 ### My Stacks  
 
-🔭 I’m currently working on Python - Flask <br/>
+- 🔭 I’m currently working on Python - Flask <br/>
 <hr/>
 
 <!-- ### My Programming Languages
