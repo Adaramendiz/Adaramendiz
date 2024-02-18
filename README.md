@@ -24,5 +24,3 @@ Adaramendiz are some ideas to get you started:
 </a>
 </p>
 
-
-<script src="https://tarptaeya.github.io/repo-card/repo-card.js"></script>
