@@ -32,8 +32,6 @@
 
 <hr/>
 
-
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -48,14 +46,4 @@
 </a>
   
 </p>
-
 <hr/>
-
-<p align="center">
-  <a href="https://github.com/Adaramendiz">
-    <img height="340px" width="850px" src="https://i.postimg.cc/85js5nxc/banner-1.png">
-  </a>
-</p>
-
-<hr/>
-
