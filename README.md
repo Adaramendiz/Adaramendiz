@@ -27,7 +27,7 @@
 🔭 I’m currently working on Python - Flask <br/>
 <hr/>
 
-### My Programming Languages
+<!-- ### My Programming Languages
 
 <hr/>
 
@@ -44,20 +44,19 @@
 	<a href="https://github.com/Adaramendiz"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-<hr/>
+<hr/> -->
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/Adaramendiz">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adaramendiz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Adaramendiz&show_icons=true&theme=algolia"/>
-    <p align="center">
-      <a href="https://github.com/Adaramendiz">
-      <img height="160em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adaramendiz&layout=compact&langs_count=8&theme=algolia"/>
-      <img height="160em>" src="https://github-readme-streak-stats.herokuapp.com/?user=Adaramendiz&theme=algolia"/>
-    </p>
-</a>
-  
+	<a href="https://github.com/Adaramendiz">
+	  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adaramendiz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+	  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Adaramendiz&show_icons=true&theme=algolia"/>
+	    <p align="center">
+	      <a href="https://github.com/Adaramendiz">
+	      <img height="160em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adaramendiz&layout=compact&langs_count=8&theme=algolia"/>
+	      <img height="160em>" src="https://github-readme-streak-stats.herokuapp.com/?user=Adaramendiz&theme=algolia"/>
+	    </p>
+	</a>
 </p>
 <hr/>
