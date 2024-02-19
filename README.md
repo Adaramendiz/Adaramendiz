@@ -27,17 +27,22 @@
 - 🔭 I’m currently working on Python - Flask <br/>
 <hr/>
 
-<!-- ### My Programming Languages
+ ### My Programming Languages
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/Python-356F9F?style=for-the-badge&logo=python&logoColor=FCFCFC)](https://developer.mozilla.org/en-US/docs/Glossary/Python)
 
 <hr/>
 
 ### My Tools 
 
-<a href="https://github.com/Adaramendiz"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a> 
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 <hr/>
 
-###  Contact me
+<!--###  Contact me
 
 <p align="start">
 	<a href="https://www.linkedin.com/in/andres-aramendiz/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> 
