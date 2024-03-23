@@ -24,7 +24,8 @@
 
 ### My Stacks  
 
-- 🔭 I’m currently working on Python - Flask <br/>
+- 🛫 Python - Flask <br/>
+- 🔭 I'm currently learning NestJs - TypeScript
 <hr/>
 
  ### My Programming Languages
