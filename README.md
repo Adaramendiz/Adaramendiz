@@ -72,7 +72,7 @@
 	      <a href="https://github.com/Adaramendiz">
 	      <img height="160em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adaramendiz&layout=compact&langs_count=5&theme=algolia"/>
 	      <img height="160em>" src="https://github-readme-streak-stats.herokuapp.com/?user=Adaramendiz&theme=algolia"/>
-		<img height="160em>" src="https://github-readme-stats.vercel.app/api/wakatime?username=adaramendiz"/>
+		<img height="160em>" src="https://github-readme-stats.vercel.app/api/wakatime?username=adaramendiz&theme=algolia"/>
 	    </p>
 	</a>
 		    
