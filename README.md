@@ -70,7 +70,7 @@
 	  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Adaramendiz&show_icons=true&theme=algolia"/>
 	    <p align="center">
 	      <a href="https://github.com/Adaramendiz">		
-	      <img height="160em>" src="https://github-readme-streak-stats.herokuapp.com/?user=Adaramendiz&theme=algolia"/>	
+	      <img height="170em>" src="https://github-readme-streak-stats.herokuapp.com/?user=Adaramendiz&theme=algolia"/>	
 	    </p>
 	</a>
 		    
